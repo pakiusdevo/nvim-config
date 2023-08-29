@@ -12,6 +12,7 @@ local servers = {
   "tsserver",
   "vuels",
   "tailwindcss",
+  -- "rust-analyzer",
 }
 
 for _, lsp in ipairs(servers) do
